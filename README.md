@@ -123,7 +123,6 @@
       <h2>Permissions</h2>
       <ul>
         <li><strong>Camera (optional):</strong> Used only to scan ingredient labels or QR codes.</li>
-        <li><strong>Photos (optional):</strong> Used only if you choose to select an image for scanning.</li>
       </ul>
       <p>
         You can manage or revoke these permissions at any time in your device settings.
