@@ -69,7 +69,7 @@
       <ul>
         <li><strong>User-entered data:</strong> Ingredient trigger lists you manually enter.</li>
         <li><strong>Scanned text:</strong> Text recognized from ingredient labels using on-device OCR.</li>
-        <li><strong>App data:</strong> Your trigger lists, scan history (if enabled), and settings stored locally in a SQLite database.</li>
+        <li><strong>App data:</strong> Your trigger lists and settings stored locally in a SQLite database.</li>
       </ul>
       <p>
         This data never leaves your device unless you explicitly choose to share or export it.
